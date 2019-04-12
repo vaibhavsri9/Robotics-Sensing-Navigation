@@ -1,0 +1,8 @@
+prefix=/home/vaibhav/lab2/install
+
+Name: rtk_gps_pkg
+Description: Description of rtk_gps_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/vaibhav/lab2/install/lib 
+Requires: 

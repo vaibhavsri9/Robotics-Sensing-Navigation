@@ -1,0 +1,12 @@
+package gps_lcm;
+
+struct gps_msg
+{
+	int64_t time;
+	float lat;
+	float longtd;
+	float altitude;
+	float utm_x;
+	float utm_y;
+}
+// check for type of variable
